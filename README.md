@@ -6,6 +6,7 @@ Course repository for Topics in Economic Theory 2014
 * Install [Anaconda](http://continuum.io/downloads);
   follow this [instruction](http://quant-econ.net/py/getting_started.html#installing-anaconda)
   if necessary.
+
 * To install the latest development version of
   the [QuantEcon](https://github.com/QuantEcon/QuantEcon.py) package,
   enter
@@ -15,6 +16,14 @@ Course repository for Topics in Economic Theory 2014
   ```
 
   at a Terminal.
+
+  If you have already installed an older version of QuantEcon,
+  add a `-U` option:
+
+  ```
+  pip install git+https://github.com/QuantEcon/QuantEcon.py -U
+  ```
+
 * If you want to build a separate Python environment for QuantEcon,
   follow Steps 2 and 3 in the Wiki page
   "[Creating a Conda development environment](https://github.com/QuantEcon/QuantEcon.py/wiki/Creating-a-Conda-development-environment)",
@@ -32,7 +41,7 @@ Course repository for Topics in Economic Theory 2014
   ```
 
   and then
-  
+
   ```
   pip install git+https://github.com/QuantEcon/QuantEcon.py
   ```
