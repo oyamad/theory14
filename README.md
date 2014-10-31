@@ -3,6 +3,11 @@ theory14
 
 Course repository for Topics in Economic Theory 2014
 
+* [Homework 1](HW01)
+
+
+## How to install the development version of QuantEcon
+
 * Install [Anaconda](http://continuum.io/downloads);
   follow this [instruction](http://quant-econ.net/py/getting_started.html#installing-anaconda)
   if necessary.
