@@ -3,7 +3,8 @@ Homework 1
 
 * Create your own user account at [GitHub](https://github.com).
 
-* Press the "Star" button on the [course repository page](https://github.com/oyamad/theory14)
+* Press the ~~"Star"~~ "Watch" button (or both the two buttons) on
+  the [course repository page](https://github.com/oyamad/theory14)
   (or on this page),
   so that I can recognize your username.
 
