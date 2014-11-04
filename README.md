@@ -4,20 +4,23 @@ theory14
 Course repository for Topics in Economic Theory 2014
 
 * [Homework 1](HW01)
+* [Homework 2](HW02)
 
 
-## How to install the development version of QuantEcon
+## How to install the latest version of QuantEcon (updated 2014/11/4)
+
+We will use the QuantEcon library version 0.1.6 (or above).
 
 * Install [Anaconda](http://continuum.io/downloads);
   follow this [instruction](http://quant-econ.net/py/getting_started.html#installing-anaconda)
   if necessary.
 
-* To install the latest development version of
+* To install the latest version of
   the [QuantEcon](https://github.com/QuantEcon/QuantEcon.py) package,
   enter
 
   ```
-  pip install git+https://github.com/QuantEcon/QuantEcon.py
+  pip install quantecon
   ```
 
   at a Terminal.
@@ -26,8 +29,18 @@ Course repository for Topics in Economic Theory 2014
   add a `-U` option:
 
   ```
-  pip install git+https://github.com/QuantEcon/QuantEcon.py -U
+  pip install quantecon -U
   ```
+
+* To verify the version 0.1.6 has been successfully installed,
+  enter
+
+  ```
+  python -c "import quantecon; print quantecon.__version__"
+  ```
+
+  at a Terminal.
+  The version number will be printed.
 
 * If you want to build a separate Python environment for QuantEcon,
   follow Steps 2 and 3 in the Wiki page
@@ -48,5 +61,14 @@ Course repository for Topics in Economic Theory 2014
   and then
 
   ```
+  pip install quantecon
+  ```
+
+* If you want to try the development version, enter
+
+  ```
   pip install git+https://github.com/QuantEcon/QuantEcon.py
   ```
+
+  (with `-U` if necessary),
+  instead of `pip install quantecon`.
