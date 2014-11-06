@@ -3,6 +3,14 @@ theory14
 
 Course repository for Topics in Economic Theory 2014
 
+## Materials
+
+* Nov 5
+  * [Updated solutions for Finite Markov Chains](http://nbviewer.ipython.org/github/oyamad/theory14/blob/master/markov/finite_mc_solutions_updated.ipynb)
+
+
+## Homework
+
 * [Homework 1](HW01)
 * [Homework 2](HW02)
 
