@@ -16,6 +16,7 @@ Homework 2
    2. Make a clone with, e.g., SourceTree.
 
    3. Download [JarvisShier_ex.ipynb](../markov/JarvisShier_ex.ipynb) and save it in the folder created above.
+      **Simulation part added (11/10)**
 
    4. Open the downloaded file with IPython, and execute the commands and write your own code in blank cells.
 
