@@ -46,3 +46,13 @@ Homework 2
 
    Due on November 11:
    Push your Python script file to your GitHub repository.
+
+   The algorithm is implemented for example in `fractions.gcd`,
+   which you can find by running the following on IPython notebook:
+
+   ```python
+   import fractions
+   fractions.gcd??
+   ```
+
+   (11/12)
