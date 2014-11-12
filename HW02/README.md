@@ -21,7 +21,7 @@ Homework 2
    4. Open the downloaded file with IPython, and execute the commands and write your own code in blank cells.
 
    5. Commit and push the file.
-   
+
    6. Edit the file "README.md" in your repository (create a file if not existing)
       to make a link to your notebook through [nbviewer](http://nbviewer.ipython.org/):
 
@@ -38,6 +38,9 @@ Homework 2
 
       [Here](http://nbviewer.ipython.org/github/oyamad/theory14/blob/master/markov/JarvisShier_ex.ipynb)
       is an example of the outcome.
+
+   [Suggested solutions](http://nbviewer.ipython.org/github/oyamad/theory14/blob/master/markov/JarvisShier_solutions.ipynb)
+   (11/12)
 
 3. Solve Exercises 10 in Jarvis and Shier.
 
