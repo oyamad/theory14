@@ -17,6 +17,7 @@ Course repository for Topics in Economic Theory 2014
 * [Homework 4](hw04.md)
 * [Homework 5](hw05.md)
 * [Homework 6](hw06.md)
+* [Homework 7](hw07.md)
 
 
 ## How to install the latest version of QuantEcon (updated 2014/11/4)
