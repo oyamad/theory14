@@ -8,6 +8,12 @@ Course repository for Topics in Economic Theory 2014
 * Nov 5
   * [Updated solutions for Finite Markov Chains in quant-econ.net](http://nbviewer.ipython.org/github/oyamad/theory14/blob/master/markov/finite_mc_solutions_updated.ipynb)
 
+* Jan 7  
+  Examples from Miranda and Fackler:
+  * [7.6.2: Asset Replacement](http://nbviewer.ipython.org/github/oyamad/mdp/blob/master/mdp_ex_MF_7_6_2.ipynb)
+  * [7.6.3: Asset Replacement with Maintenance](http://nbviewer.ipython.org/github/oyamad/mdp/blob/master/mdp_ex_MF_7_6_3.ipynb)
+  * [7.6.5: Water Management](http://nbviewer.ipython.org/github/oyamad/mdp/blob/master/mdp_ex_MF_7_6_5.ipynb)
+
 
 ## Homework
 
